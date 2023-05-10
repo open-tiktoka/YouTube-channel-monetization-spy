@@ -11,6 +11,15 @@ adapt from Source code for "Is YouTube Channel Monetized?" extension.
 
 1. detect is_monetization_enabled 
 2. detect adsense
+
+https://stackoverflow.com/questions/57792612/is-it-possible-to-extract-the-adsense-publisher-id-of-a-youtube-channel-video
+
+you want to know the Adsense ID of user-owned current YouTube Channel. All you need is view source the video page and find ca-yt-host-pub if current youtube video has permission to run google ad.
+
+I will come up with ca-yt-host-pub-[adsenseid].
+
+If video or youtube channel is not eligible for google ads you will not find any entry for same.
+
 ```
 var adUnit = document.getElementsByClassName("section-below-title")[0];
 var parentElement = adUnit.childNodes[0];
