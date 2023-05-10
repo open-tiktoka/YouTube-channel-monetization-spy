@@ -42,6 +42,12 @@ parentElement.appendChild(ins);
 
 
 ```
+
+
+https://googleads.g.doubleclick.net/pagead/ads?cust_gender=1&cust_age=1001&lact=-1&ytdevicever=ytdevicever_2.20190830.05.01&client=ca-pub-6219811747049371&correlator=7680223626982580911&ad_block=3&host=ca-yt-host-pub-0161219093041726&loeid=23757412,23801214,23802811,23825187,23840454&num_ads=1&video_doc_id=yt_KBXTnrD_Zs4&ad_type=text&channel=PyvWatchInRelated%2BPyvWatchNoAdX%2BPyvYTWatch%2Bafv_user_id_XuqSBlHAE6Xw-yeJA0Tunw%2Bafv_user_linustechtips%2Bnon_lpw%2Bpw%2Byt_bs3%2Byt_cid_563326%2Byt_mpvid_BQaqvwtEkr3N-Vog%2Byt_no_ap%2Bytdevice_1%2Bytdevicever_2.20190830.05.01&hl=en&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FKBXTnrD_Zs4&output=js&ea=0&eae=2&adk=511001906&pyv=1&top=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKBXTnrD_Zs4%26app%3Ddesktop&loc=EMPTY&dbp=ChZmMk1sUGFvOWhNXzQxODVubWxqWGJnEAEgASgAOAI&isw=0&ish=0&yt_pt=APb3F29OhgLzyszqYbU31fmkEgs0AccKCG0aOJXYOcyJLapYBsdDy_HexgVuEvTteHE1kKgddrYC3i1Qgf4yNQcTMPDGVC1b9xGD7U4d4YWUjxn7ES4XVIPIie-x3ppb1TbzKQF5HnknccafebzS8qTeIvotbAbqyOoP9_pYI-KSq8e2R9QvqmL6V4kgkVYfVOy6PL7EL2xznIBaD5bWf9nypJFUAZaokgQFMgLktQ&pucrd=APb3F28coEKL-ngqMchgLsw9cO1G46pzUkBYVSf4yZbajqJAeLNYkCYJ3AntOsWoZcUpLH0Nq6pV0EBaKsg82QrDAXodYWwgyrm9a3nIzw&dt=1567306839089&flash=0&frm=0&u_tz=-420&u_his=4&u_java=false&u_h=1080&u_w=1920&u_ah=1040&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&bc=31&bih=973&biw=1920&brdim=1920%2C0%2C1920%2C0%2C1920%2C0%2C1920%2C1040%2C1920%2C973&vis=1&wgl=true&dff=times%20new%20roman&dfs=16&ppjl=u&rsz=%7C%7Cn%7C&dssz=40&icsg=68669144847&mdo=0&mso=0&iag=0&lact=1070
+
+
+
 4. detect ads
 
 ```
